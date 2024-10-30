@@ -1,12 +1,7 @@
 package francisco.barbosa.gofpatterns.decorator.solution;
 
-import ch.qos.logback.core.net.SyslogOutputStream;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import java.sql.SQLOutput;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class BeverageTest {
 
